@@ -46,7 +46,10 @@ len(mylist)
 
 #while
 x = 0
-
+y = 0
+while(x<5)
+        y+2
+        x+1
 #for loop by index
 for i in range(len(mylist)):
 	print(mylist[i])
